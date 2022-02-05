@@ -1,0 +1,17 @@
+@use 'variables' as *;
+
+@mixin flex ($direction, $justify){
+    display: flex;
+    flex-direction: $direction;
+    justify-content: $justify;
+    align-items: center;
+}
+
+@mixin grid {
+    @media (min-width:$desktop) {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(16em, 1fr));
+        align-items: center;
+        gap: 1.5em;
+    }
+}

@@ -1,0 +1,44 @@
+
+// Neutral Colors
+$White: hsl(0, 0%, 100%);
+$Black: hsl(0, 0%, 0%);
+$DarkGray: hsl(0, 0%, 55%);
+$VeryDarkGray: hsl(0, 0%, 41%);
+$background: rgba(1, 1, 1, 0.397);
+
+//URL
+    // Hero Background
+    $header-background: '../images/mobile/image-hero.jpg';
+    $header-background-desktop: '../images/desktop/image-hero.jpg';
+    // Main Image
+    $main-image: '../images/mobile/image-interactive.jpg';
+    $main-image-desktop: '../images/desktop/image-interactive.jpg';
+//
+
+// Card Images Mobile
+$deep-earth: '../images/mobile/image-deep-earth.jpg';
+$night-arcade: '../images/mobile/image-night-arcade.jpg';
+$soccer-team: '../images/mobile/image-soccer-team.jpg';
+$the-grid: '../images/mobile/image-grid.jpg';
+$from-up: '../images/mobile/image-from-above.jpg';
+$borealis: '../images/mobile/image-pocket-borealis.jpg';
+$curiosity: '../images/mobile/image-curiosity.jpg';
+$fisheye: '../images/mobile/image-fisheye.jpg';
+// Card images desktop
+$deep-earth-desktop: '../images/desktop/image-deep-earth.jpg';
+$night-arcade-desktop: '../images/desktop/image-night-arcade.jpg';
+$soccer-team-desktop: '../images/desktop/image-soccer-team.jpg';
+$the-grid-desktop: '../images/desktop/image-grid.jpg';
+$from-up-desktop: '../images/desktop/image-from-above.jpg';
+$borealis-desktop: '../images/desktop/image-pocket-borealis.jpg';
+$curiosity-desktop: '../images/desktop/image-curiosity.jpg';
+$fisheye-desktop: '../images/desktop/image-fisheye.jpg';
+
+
+
+
+
+
+// Brekpoints
+$tablet:710px;
+$desktop:1200px;
